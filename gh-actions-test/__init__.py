@@ -1,0 +1,3 @@
+"""
+A stub package
+"""
